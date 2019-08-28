@@ -1,0 +1,6 @@
+D:\Desktop-Main\C# Tutoriols\UnitTest\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Desktop-Main\C# Tutoriols\UnitTest\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Desktop-Main\C# Tutoriols\UnitTest\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\Desktop-Main\C# Tutoriols\UnitTest\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Desktop-Main\C# Tutoriols\UnitTest\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Desktop-Main\C# Tutoriols\UnitTest\BusinessLayer\obj\Debug\BusinessLayer.pdb

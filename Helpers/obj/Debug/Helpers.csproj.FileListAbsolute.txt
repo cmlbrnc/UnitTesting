@@ -1,0 +1,5 @@
+D:\Desktop-Main\C# Tutoriols\CreatingFirstUnitTest\Helpers\bin\Debug\Helpers.dll
+D:\Desktop-Main\C# Tutoriols\CreatingFirstUnitTest\Helpers\bin\Debug\Helpers.pdb
+D:\Desktop-Main\C# Tutoriols\CreatingFirstUnitTest\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+D:\Desktop-Main\C# Tutoriols\CreatingFirstUnitTest\Helpers\obj\Debug\Helpers.dll
+D:\Desktop-Main\C# Tutoriols\CreatingFirstUnitTest\Helpers\obj\Debug\Helpers.pdb

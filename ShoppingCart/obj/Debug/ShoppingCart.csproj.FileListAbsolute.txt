@@ -1,0 +1,6 @@
+D:\Desktop-Main\C# Tutoriols\UnitTest\ShoppingCart\obj\Debug\ShoppingCart.csprojAssemblyReference.cache
+D:\Desktop-Main\C# Tutoriols\UnitTest\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\Desktop-Main\C# Tutoriols\UnitTest\ShoppingCart\bin\Debug\ShoppingCart.dll
+D:\Desktop-Main\C# Tutoriols\UnitTest\ShoppingCart\bin\Debug\ShoppingCart.pdb
+D:\Desktop-Main\C# Tutoriols\UnitTest\ShoppingCart\obj\Debug\ShoppingCart.dll
+D:\Desktop-Main\C# Tutoriols\UnitTest\ShoppingCart\obj\Debug\ShoppingCart.pdb
